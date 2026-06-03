@@ -2,50 +2,44 @@
 
 This repository contains my Verilog HDL solutions to HDLBits exercises completed as part of my FPGA, DSP, and VLSI learning journey.
 
-## Topics Covered
-
-- Combinational Logic
-- Sequential Logic
-- Counters
-- Shift Registers
-- Finite State Machines (FSM)
-- Arithmetic Circuits
-- Multiplexers and Decoders
-
-## Tools
-
-- Verilog HDL
-- HDLBits
-
-## Objective
-
-To build strong RTL design fundamentals required for FPGA Design, Digital Signal Processing (DSP), Embedded Systems, and VLSI Design.
-
-## Repository Structure
-
-```text
-HDLBits-Verilog-Solutions
-
-├── Combinational_Logic
-├── Sequential_Logic
-├── Counters
-├── Shift_Registers
-├── FSM
-├── Arithmetic_Circuits
-```
-
 ## Progress
 
-- [ ] Combinational Logic
-- [ ] Sequential Logic
-- [ ] Counters
-- [ ] Shift Registers
-- [ ] FSM
-- [ ] Arithmetic Circuits
+### Getting Started
+- [x] Getting Started
+- [x] Output Zero
 
-## Current Goal
+### Verilog Language - Basics
+- [x] Simple Wire
+- [x] Four Wires
+- [x] Inverter
+- [x] AND Gate
+- [x] NOR Gate
+- [x] XNOR Gate
+- [x] Declaring Wires
+- [x] 7458 Chip
 
-Complete 150+ HDLBits problems and strengthen Verilog RTL design skills for FPGA and VLSI applications.
+### Verilog Language - Vectors
+- [x] Vectors
+- [x] Vectors in More Detail
+- [x] Vector Part Select
+- [x] Bitwise Operators
+- [x] Four-Input Gates
+- [x] Vector Concatenation Operator
+- [x] Vector Reversal
+- [x] Replication Operator
+- [x] More Replication
+
+## Current Focus
+
+- Verilog HDL
+- RTL Design
+- FPGA Design
+- Digital Signal Processing
+- VLSI Design
+
+## Goal
+
+Complete HDLBits and build strong RTL design fundamentals for FPGA and VLSI applications.
 
 ---
 
